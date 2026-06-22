@@ -3,19 +3,28 @@ import pandas as pd
 import time
 import os
 
-client = anthropic.Anthropic(api_key="sk-ant-여기에키입력")
+client = anthropic.Anthropic(api_key="   ")
 
 INPUT_FILE = 'dataset_440_final.csv'
 OUTPUT_FILE = 'experiment_results_440.csv'
 
 df = pd.read_csv(INPUT_FILE)
 
-# 이미 처리된 항목 확인 (재시작 지원)
+# 컬럼 타입 강제로 string으로 변환
+for col in ['Result_FewShot','Result_CoT','Result_Role',
+            'Raw_FewShot','Raw_CoT','Raw_Role',
+            'Correct_FewShot','Correct_CoT','Correct_Role']:
+    df[col] = df[col].astype(str)
+
 if os.path.exists(OUTPUT_FILE):
-    done = pd.read_csv(OUTPUT_FILE)
-    done_ids = set(done[done['Correct_FewShot'] != '']['Scenario ID'].tolist())
+    done = pd.read_csv(OUTPUT_FILE, dtype=str)
+    done_ids = set(done[done['Correct_FewShot'].notna() & (done['Correct_FewShot'] != '') & (done['Correct_FewShot'] != 'nan')]['Scenario ID'].tolist())
+    df = done.copy()
+    for col in ['Result_FewShot','Result_CoT','Result_Role',
+                'Raw_FewShot','Raw_CoT','Raw_Role',
+                'Correct_FewShot','Correct_CoT','Correct_Role']:
+        df[col] = df[col].astype(str)
     print(f"이미 처리된 시나리오: {len(done_ids)}개")
-    df = pd.read_csv(OUTPUT_FILE)
 else:
     done_ids = set()
 
@@ -40,19 +49,19 @@ for i, idx in enumerate(df.index):
     print(f"[{i+1}/{total}] {sid} 처리 중...")
 
     for prompt_col, result_col, correct_col, raw_col in [
-        ('Prompt_FewShot', 'Result_FewShot', 'Correct_FewShot', 'Raw_FewShot'),
-        ('Prompt_CoT',     'Result_CoT',     'Correct_CoT',     'Raw_CoT'),
-        ('Prompt_Role',    'Result_Role',     'Correct_Role',    'Raw_Role'),
+        ('Prompt_FewShot','Result_FewShot','Correct_FewShot','Raw_FewShot'),
+        ('Prompt_CoT','Result_CoT','Correct_CoT','Raw_CoT'),
+        ('Prompt_Role','Result_Role','Correct_Role','Raw_Role'),
     ]:
         try:
             response = client.messages.create(
                 model="claude-haiku-4-5-20251001",
                 max_tokens=3000,
-                messages=[{"role": "user", "content": row[prompt_col]}]
+                messages=[{"role": "user", "content": str(row[prompt_col])}]
             )
             raw = response.content[0].text
-            result = extract_winner(raw, row['Team A'], row['Team B'])
-            correct = 1 if result == row['Winner'] else 0
+            result = extract_winner(raw, str(row['Team A']), str(row['Team B']))
+            correct = '1' if result == str(row['Winner']) else '0'
 
             df.at[idx, raw_col] = raw
             df.at[idx, result_col] = result
@@ -62,12 +71,12 @@ for i, idx in enumerate(df.index):
         except Exception as e:
             print(f"  ERROR ({prompt_col}): {e}")
             df.at[idx, result_col] = 'ERROR'
-            df.at[idx, correct_col] = -1
+            df.at[idx, correct_col] = '-1'
 
     fs = df.at[idx, 'Correct_FewShot']
     cot = df.at[idx, 'Correct_CoT']
     role = df.at[idx, 'Correct_Role']
-    print(f"  FewShot={'정답' if fs==1 else '오답'} | CoT={'정답' if cot==1 else '오답'} | Role={'정답' if role==1 else '오답'}")
+    print(f"  FewShot={'정답' if fs=='1' else '오답'} | CoT={'정답' if cot=='1' else '오답'} | Role={'정답' if role=='1' else '오답'}")
 
     if (i + 1) % 20 == 0:
         df.to_csv(OUTPUT_FILE, index=False)
@@ -78,7 +87,7 @@ for i, idx in enumerate(df.index):
 df.to_csv(OUTPUT_FILE, index=False)
 
 print("\n=== 실험 완료 ===")
-for col in ['Correct_FewShot', 'Correct_CoT', 'Correct_Role']:
-    acc = (df[col] == 1).sum()
-    unclear = (df[col] == -1).sum()
+for col in ['Correct_FewShot','Correct_CoT','Correct_Role']:
+    acc = (df[col] == '1').sum()
+    unclear = (df[col] == '-1').sum()
     print(f"{col}: {acc}/440 ({round(acc/440*100,1)}%) | UNCLEAR: {unclear}")
