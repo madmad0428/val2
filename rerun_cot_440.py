@@ -15,9 +15,10 @@ def extract_winner(text, team_a, team_b):
             return team
     return "UNCLEAR"
 
-# UNCLEAR(-1)인 CoT만 재실행
-targets = df[df['Correct_CoT'] == '-1'].index.tolist()
-print(f"재실행 대상: {len(targets)}개")
+# 3000자 초과한 CoT만 재실행
+targets = df[df['Raw_CoT'].str.len() > 3000].index.tolist()
+print(f"3000자 초과 재실행 대상: {len(targets)}개")
+print(df.loc[targets, 'Scenario ID'].tolist())
 
 for idx in targets:
     row = df.loc[idx]
@@ -27,7 +28,7 @@ for idx in targets:
     try:
         response = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=3200,
+            max_tokens=3400,
             messages=[{"role": "user", "content": str(row['Prompt_CoT'])}]
         )
         raw = response.content[0].text
@@ -46,7 +47,6 @@ for idx in targets:
 df.to_csv('experiment_results_440.csv', index=False)
 print("저장 완료!")
 
-for col in ['Correct_FewShot','Correct_CoT','Correct_Role']:
-    acc = (df[col] == '1').sum()
-    unclear = (df[col] == '-1').sum()
-    print(f"{col}: {acc}/440 ({round(acc/440*100,1)}%) | UNCLEAR: {unclear}")
+acc = (df['Correct_CoT'] == '1').sum()
+unclear = (df['Correct_CoT'] == '-1').sum()
+print(f"CoT: {acc}/440 ({round(acc/440*100,1)}%) | UNCLEAR: {unclear}")
