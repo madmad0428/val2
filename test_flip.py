@@ -29,3 +29,4 @@ print("실제 승자: KRU Esports")
 print("변조 스탯: Sentinels가 압도적 우세")
 print()
 print(response.content[0].text)
+
