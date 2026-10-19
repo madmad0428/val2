@@ -55,7 +55,7 @@ def parse_winner(text, team_a, team_b, match_name=None):
 
 def parse_winner_ex(text, team_a, team_b, match_name=None):
     """(결과, 규칙) 반환. 규칙: 'marker'(명시 마커) / 'head'(첫150자) / 'tail'(끝300자) / 'none'"""
-    text = str(text)
+    text = str(text).replace('\r\n', '\n')   # 윈도우 git checkout(CRLF)에서도 같은 결과가 나오게 통일
     na = _aliases(team_a, team_b, 'A', match_name)
     nb = _aliases(team_b, team_a, 'B', match_name)
 

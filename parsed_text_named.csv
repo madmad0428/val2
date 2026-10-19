@@ -81,7 +81,7 @@ S079,FURIA,100 Thieves,100 Thieves,FURIA,100 Thieves,marker,0,1,FURIA,100 Thieve
 S080,LOUD,Cloud9,LOUD,LOUD,LOUD,head,1,1,LOUD,LOUD,marker,1,1,LOUD,LOUD,marker,1,1
 S081,G2 Esports,ENVY,G2 Esports,ENVY,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1,ENVY,G2 Esports,marker,0,1
 S082,MIBR,LOUD,MIBR,MIBR,MIBR,tail,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,tail,1,1
-S083,KRÜ Esports,100 Thieves,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S083,KRÜ Esports,100 Thieves,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,KRÜ Esports,100 Thieves,marker,0,1
 S084,FURIA,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,head,1,1,FURIA,LEVIATÁN,marker,0,1,FURIA,LEVIATÁN,marker,0,1
 S085,Gentle Mates,FUT Esports,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1
 S086,FUT Esports,Team Vitality,FUT Esports,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
@@ -154,7 +154,7 @@ S152,Eternal Fire,Team Vitality,Eternal Fire,Eternal Fire,Eternal Fire,marker,1,
 S153,GIANTX,FNATIC,FNATIC,GIANTX,FNATIC,marker,0,1,GIANTX,FNATIC,marker,0,1,GIANTX,FNATIC,head,0,1
 S154,Team Liquid,Gentle Mates,Gentle Mates,Team Liquid,Gentle Mates,marker,0,1,Team Liquid,Gentle Mates,marker,0,1,Team Liquid,Gentle Mates,marker,0,1
 S155,Kiwoom DRX,Nongshim RedForce,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,head,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,head,1,1
-S156,T1,Paper Rex,Paper Rex,T1,Paper Rex,head,0,1,Paper Rex,Paper Rex,marker,1,1,T1,Paper Rex,tail,0,1
+S156,T1,Paper Rex,Paper Rex,T1,Paper Rex,tail,0,1,Paper Rex,Paper Rex,marker,1,1,T1,Paper Rex,tail,0,1
 S157,Gen.G,Global Esports,Global Esports,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1
 S158,Rex Regum Qeon,Global Esports,Global Esports,Rex Regum Qeon,Rex Regum Qeon,marker,0,0,Rex Regum Qeon,Rex Regum Qeon,marker,0,0,Rex Regum Qeon,Rex Regum Qeon,marker,0,0
 S159,Team Secret,Kiwoom DRX,Kiwoom DRX,Team Secret,Team Secret,marker,0,0,Kiwoom DRX,Kiwoom DRX,marker,1,1,Team Secret,Team Secret,marker,0,0
@@ -163,7 +163,7 @@ S161,FULL SENSE,VARREL,FULL SENSE,FULL SENSE,FULL SENSE,tail,1,1,FULL SENSE,FULL
 S162,Team Secret,Global Esports,Global Esports,Team Secret,Global Esports,marker,0,1,Team Secret,Global Esports,marker,0,1,Team Secret,Global Esports,head,0,1
 S163,FULL SENSE,Paper Rex,Paper Rex,FULL SENSE,Paper Rex,tail,0,1,FULL SENSE,Paper Rex,marker,0,1,FULL SENSE,Paper Rex,marker,0,1
 S164,DetonatioN FocusMe,VARREL,VARREL,DetonatioN FocusMe,VARREL,marker,0,1,DetonatioN FocusMe,VARREL,marker,0,1,VARREL,VARREL,head,1,1
-S165,Nongshim RedForce,Team Secret,Team Secret,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,head,1,1
+S165,Nongshim RedForce,Team Secret,Team Secret,Nongshim RedForce,Team Secret,marker,0,1,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,head,1,1
 S166,Nongshim RedForce,Kiwoom DRX,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,head,1,1
 S167,Nongshim RedForce,Global Esports,Global Esports,Nongshim RedForce,Global Esports,marker,0,1,Global Esports,Global Esports,marker,1,1,Global Esports,Global Esports,marker,1,1
 S168,Rex Regum Qeon,VARREL,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,VARREL,VARREL,marker,0,0,VARREL,Rex Regum Qeon,head,0,1
@@ -204,7 +204,7 @@ S202,FULL SENSE,ZETA DIVISION,FULL SENSE,ZETA DIVISION,FULL SENSE,head,0,1,FULL 
 S203,ZETA DIVISION,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,head,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
 S204,FULL SENSE,VARREL,FULL SENSE,VARREL,FULL SENSE,head,0,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
 S205,T1,Rex Regum Qeon,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
-S206,FULL SENSE,ZETA DIVISION,FULL SENSE,ZETA DIVISION,FULL SENSE,head,0,1,ZETA DIVISION,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1
+S206,FULL SENSE,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,head,1,1,ZETA DIVISION,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1
 S207,Gen.G,Kiwoom DRX,Gen.G,Gen.G,Gen.G,head,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1
 S208,Gen.G,Global Esports,Global Esports,Global Esports,Global Esports,marker,1,1,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1
 S209,Kiwoom DRX,Nongshim RedForce,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,head,1,1
@@ -300,7 +300,7 @@ S298,Evil Geniuses,Sentinels,Sentinels,Sentinels,Sentinels,tail,1,1,Sentinels,Se
 S299,Mega Minors,Cloud9,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
 S300,Evil Geniuses,Sentinels,Sentinels,Evil Geniuses,Sentinels,marker,0,1,Evil Geniuses,Sentinels,marker,0,1,Sentinels,Sentinels,marker,1,1
 S301,100 Thieves,Cloud9,100 Thieves,100 Thieves,100 Thieves,marker,1,1,Cloud9,100 Thieves,marker,0,1,100 Thieves,100 Thieves,tail,1,1
-S302,G2 Esports,Cloud9,G2 Esports,Cloud9,G2 Esports,head,0,1,Cloud9,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
+S302,G2 Esports,Cloud9,G2 Esports,Cloud9,G2 Esports,head,0,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
 S303,KRÜ Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,KRÜ Esports,LEVIATÁN,marker,0,1,LEVIATÁN,LEVIATÁN,marker,1,1
 S304,ENVY,Evil Geniuses,Evil Geniuses,ENVY,ENVY,marker,0,0,ENVY,Evil Geniuses,marker,0,1,ENVY,Evil Geniuses,head,0,1
 S305,G2 Esports,Cloud9,G2 Esports,G2 Esports,G2 Esports,marker,1,1,Cloud9,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
@@ -375,7 +375,7 @@ S373,Team Heretics,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Te
 S374,Team Liquid,FNATIC,FNATIC,Team Liquid,FNATIC,head,0,1,Team Liquid,FNATIC,marker,0,1,Team Liquid,FNATIC,marker,0,1
 S375,Natus Vincere,Karmine Corp,Natus Vincere,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,head,1,1
 S376,ULF Esports,Team Vitality,Team Vitality,ULF Esports,Team Vitality,marker,0,1,ULF Esports,Team Vitality,marker,0,1,Team Vitality,Team Vitality,marker,1,1
-S377,Natus Vincere,FNATIC,Natus Vincere,Natus Vincere,UNCLEAR,none,1,0,Natus Vincere,Natus Vincere,marker,1,1,FNATIC,Natus Vincere,head,0,1
+S377,Natus Vincere,FNATIC,Natus Vincere,FNATIC,FNATIC,tail,0,0,Natus Vincere,Natus Vincere,marker,1,1,FNATIC,Natus Vincere,head,0,1
 S378,ULF Esports,Team Vitality,Team Vitality,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,head,1,1
 S379,GIANTX,Team Heretics,GIANTX,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
 S380,Natus Vincere,Gentle Mates,Gentle Mates,Natus Vincere,Gentle Mates,marker,0,1,Natus Vincere,Gentle Mates,marker,0,1,Natus Vincere,Gentle Mates,marker,0,1
@@ -424,7 +424,7 @@ S422,Kiwoom DRX,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,marker,1
 S423,Paper Rex,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Paper Rex,Rex Regum Qeon,marker,0,1,Paper Rex,Rex Regum Qeon,head,0,1
 S424,Gen.G,T1,Gen.G,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,T1,marker,1,0
 S425,DetonatioN FocusMe,Global Esports,Global Esports,Global Esports,Global Esports,head,1,1,Global Esports,Global Esports,marker,1,1,Global Esports,Global Esports,marker,1,1
-S426,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S426,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,FULL SENSE,marker,1,1,ZETA DIVISION,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1
 S427,Nongshim RedForce,Rex Regum Qeon,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
 S428,T1,Nongshim RedForce,Nongshim RedForce,T1,Nongshim RedForce,head,0,1,T1,Nongshim RedForce,marker,0,1,T1,Nongshim RedForce,head,0,1
 S429,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,FULL SENSE,head,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,head,1,1

@@ -78,8 +78,12 @@ def run(df, label, has_v3):
     return out, review
 
 
-named = pd.read_csv('experiment_results_440_reparsed.csv', dtype=str).fillna('')
+named = pd.read_csv('experiment_results_440_reparsed.csv', dtype=str, encoding='utf-8-sig').fillna('')
 anon = pd.read_csv('experiment_results_text_anon.csv', dtype=str, encoding='utf-8-sig').fillna('')
+# 윈도우에서 git이 줄바꿈을 CRLF로 바꿔도 "끝 300자" 구간이 어긋나지 않도록 LF로 통일
+for _df in (named, anon):
+    for _t in TECH:
+        _df[f'Raw_{_t}'] = _df[f'Raw_{_t}'].str.replace('\r\n', '\n', regex=False)
 
 o_named, r_named = run(named, '실명', True)
 o_anon, r_anon = run(anon, '익명', False)
