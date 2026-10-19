@@ -1,0 +1,441 @@
+﻿Scenario ID,Team A,Team B,Winner,Orig_FewShot,Fixed_FewShot,Rule_FewShot,OrigOK_FewShot,FixedOK_FewShot,Orig_CoT,Fixed_CoT,Rule_CoT,OrigOK_CoT,FixedOK_CoT,Orig_Role,Fixed_Role,Rule_Role,OrigOK_Role,FixedOK_Role
+S001,Sentinels,KRÜ Esports,KRÜ Esports,Sentinels,KRÜ Esports,marker,0,1,KRÜ Esports,KRÜ Esports,marker,1,1,Sentinels,KRÜ Esports,marker,0,1
+S002,ENVY,LOUD,ENVY,ENVY,ENVY,tail,1,1,ENVY,ENVY,marker,1,1,ENVY,ENVY,head,1,1
+S003,LOUD,Cloud9,LOUD,LOUD,LOUD,marker,1,1,LOUD,LOUD,marker,1,1,LOUD,LOUD,marker,1,1
+S004,G2 Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,tail,1,1,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1
+S005,Sentinels,Mega Minors,Mega Minors,Sentinels,Mega Minors,marker,0,1,Sentinels,Mega Minors,marker,0,1,Sentinels,Sentinels,marker,0,0
+S006,Mega Minors,100 Thieves,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S007,FURIA,100 Thieves,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,100 Thieves,marker,1,0
+S008,Evil Geniuses,Sentinels,Sentinels,Evil Geniuses,Sentinels,head,0,1,Sentinels,Sentinels,marker,1,1,Sentinels,Sentinels,head,1,1
+S009,MIBR,LEVIATÁN,LEVIATÁN,MIBR,LEVIATÁN,tail,0,1,MIBR,LEVIATÁN,marker,0,1,MIBR,LEVIATÁN,head,0,1
+S010,FURIA,Evil Geniuses,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S011,FURIA,Mega Minors,Mega Minors,FURIA,FURIA,marker,0,0,FURIA,FURIA,marker,0,0,FURIA,FURIA,marker,0,0
+S012,G2 Esports,MIBR,MIBR,MIBR,G2 Esports,tail,1,0,MIBR,MIBR,marker,1,1,MIBR,G2 Esports,marker,1,0
+S013,KRÜ Esports,Evil Geniuses,KRÜ Esports,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1
+S014,LEVIATÁN,MIBR,MIBR,LEVIATÁN,LEVIATÁN,tail,0,0,LEVIATÁN,MIBR,marker,0,1,LEVIATÁN,MIBR,marker,0,1
+S015,FURIA,Mega Minors,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S016,Mega Minors,KRÜ Esports,KRÜ Esports,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,head,1,1
+S017,ENVY,LOUD,LOUD,ENVY,LOUD,marker,0,1,ENVY,LOUD,marker,0,1,LOUD,LOUD,head,1,1
+S018,100 Thieves,Evil Geniuses,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S019,LOUD,LEVIATÁN,LOUD,LOUD,LEVIATÁN,marker,1,0,LOUD,LEVIATÁN,marker,1,0,LOUD,LEVIATÁN,marker,1,0
+S020,100 Thieves,Sentinels,Sentinels,100 Thieves,100 Thieves,marker,0,0,100 Thieves,100 Thieves,marker,0,0,100 Thieves,100 Thieves,marker,0,0
+S021,LEVIATÁN,MIBR,MIBR,LEVIATÁN,LEVIATÁN,marker,0,0,LEVIATÁN,LEVIATÁN,marker,0,0,LEVIATÁN,MIBR,marker,0,1
+S022,KRÜ Esports,Mega Minors,Mega Minors,Mega Minors,Mega Minors,marker,1,1,KRÜ Esports,Mega Minors,marker,0,1,Mega Minors,Mega Minors,marker,1,1
+S023,MIBR,100 Thieves,100 Thieves,MIBR,100 Thieves,marker,0,1,MIBR,100 Thieves,marker,0,1,MIBR,100 Thieves,head,0,1
+S024,G2 Esports,Mega Minors,Mega Minors,Mega Minors,G2 Esports,tail,1,0,G2 Esports,Mega Minors,marker,0,1,Mega Minors,G2 Esports,marker,1,0
+S025,MIBR,LOUD,MIBR,MIBR,MIBR,head,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S026,Cloud9,ENVY,Cloud9,Cloud9,Cloud9,marker,1,1,Cloud9,Cloud9,marker,1,1,Cloud9,Cloud9,marker,1,1
+S027,MIBR,Cloud9,Cloud9,MIBR,Cloud9,marker,0,1,MIBR,Cloud9,marker,0,1,MIBR,Cloud9,head,0,1
+S028,MIBR,Cloud9,Cloud9,MIBR,Cloud9,marker,0,1,MIBR,Cloud9,marker,0,1,MIBR,MIBR,tail,0,0
+S029,Mega Minors,KRÜ Esports,KRÜ Esports,Mega Minors,KRÜ Esports,marker,0,1,Mega Minors,KRÜ Esports,marker,0,1,KRÜ Esports,KRÜ Esports,marker,1,1
+S030,Mega Minors,100 Thieves,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,100 Thieves,Mega Minors,head,0,1
+S031,LOUD,Cloud9,Cloud9,LOUD,Cloud9,marker,0,1,LOUD,Cloud9,marker,0,1,LOUD,LOUD,tail,0,0
+S032,G2 Esports,Mega Minors,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S033,LOUD,LEVIATÁN,LOUD,LOUD,LOUD,marker,1,1,LOUD,LOUD,marker,1,1,LOUD,LEVIATÁN,marker,1,0
+S034,FURIA,Evil Geniuses,Evil Geniuses,Evil Geniuses,Evil Geniuses,marker,1,1,FURIA,Evil Geniuses,marker,0,1,FURIA,FURIA,tail,0,0
+S035,KRÜ Esports,100 Thieves,KRÜ Esports,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1
+S036,LEVIATÁN,G2 Esports,G2 Esports,LEVIATÁN,G2 Esports,marker,0,1,LEVIATÁN,G2 Esports,marker,0,1,LEVIATÁN,G2 Esports,marker,0,1
+S037,Sentinels,Mega Minors,Sentinels,Sentinels,Sentinels,marker,1,1,Sentinels,Sentinels,marker,1,1,Sentinels,Sentinels,marker,1,1
+S038,Evil Geniuses,Mega Minors,Mega Minors,Evil Geniuses,Mega Minors,marker,0,1,Evil Geniuses,Mega Minors,marker,0,1,Mega Minors,Mega Minors,head,1,1
+S039,G2 Esports,Mega Minors,G2 Esports,G2 Esports,G2 Esports,marker,1,1,Mega Minors,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
+S040,Sentinels,KRÜ Esports,KRÜ Esports,Sentinels,Sentinels,tail,0,0,KRÜ Esports,KRÜ Esports,marker,1,1,Sentinels,KRÜ Esports,head,0,1
+S041,G2 Esports,LOUD,G2 Esports,G2 Esports,G2 Esports,marker,1,1,LOUD,G2 Esports,marker,0,1,LOUD,G2 Esports,marker,0,1
+S042,G2 Esports,MIBR,MIBR,G2 Esports,MIBR,marker,0,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S043,KRÜ Esports,Mega Minors,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S044,ENVY,MIBR,ENVY,ENVY,ENVY,head,1,1,ENVY,ENVY,marker,1,1,ENVY,MIBR,tail,1,0
+S045,ENVY,MIBR,ENVY,ENVY,ENVY,marker,1,1,ENVY,ENVY,marker,1,1,ENVY,ENVY,head,1,1
+S046,100 Thieves,LOUD,100 Thieves,LOUD,100 Thieves,head,0,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S047,FURIA,Mega Minors,Mega Minors,FURIA,Mega Minors,tail,0,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,head,1,1
+S048,LEVIATÁN,G2 Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,head,1,1
+S049,Cloud9,ENVY,ENVY,Cloud9,ENVY,marker,0,1,Cloud9,ENVY,marker,0,1,Cloud9,ENVY,head,0,1
+S050,Evil Geniuses,Sentinels,Sentinels,Evil Geniuses,Sentinels,tail,0,1,Sentinels,Sentinels,marker,1,1,Sentinels,Sentinels,head,1,1
+S051,LEVIATÁN,ENVY,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1
+S052,FURIA,Mega Minors,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S053,G2 Esports,LEVIATÁN,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,LEVIATÁN,G2 Esports,marker,0,1
+S054,FURIA,LEVIATÁN,LEVIATÁN,FURIA,LEVIATÁN,tail,0,1,FURIA,LEVIATÁN,marker,0,1,FURIA,LEVIATÁN,marker,0,1
+S055,MIBR,LEVIATÁN,MIBR,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S056,G2 Esports,ENVY,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,ENVY,G2 Esports,head,0,1
+S057,FURIA,Sentinels,FURIA,FURIA,FURIA,head,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,head,1,1
+S058,KRÜ Esports,100 Thieves,100 Thieves,KRÜ Esports,KRÜ Esports,marker,0,0,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S059,LEVIATÁN,G2 Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,marker,1,1
+S060,FURIA,Sentinels,FURIA,FURIA,FURIA,head,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,head,1,1
+S061,LEVIATÁN,ENVY,LEVIATÁN,ENVY,ENVY,tail,0,0,LEVIATÁN,LEVIATÁN,marker,1,1,LEVIATÁN,LEVIATÁN,head,1,1
+S062,FURIA,Sentinels,Sentinels,Sentinels,Sentinels,tail,1,1,FURIA,Sentinels,marker,0,1,FURIA,Sentinels,head,0,1
+S063,G2 Esports,100 Thieves,G2 Esports,G2 Esports,G2 Esports,head,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,head,1,1
+S064,LOUD,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,head,1,1,LOUD,LEVIATÁN,marker,0,1,LOUD,LEVIATÁN,marker,0,1
+S065,100 Thieves,Evil Geniuses,100 Thieves,100 Thieves,100 Thieves,head,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S066,G2 Esports,100 Thieves,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S067,G2 Esports,Mega Minors,Mega Minors,G2 Esports,Mega Minors,marker,0,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S068,FURIA,Evil Geniuses,FURIA,FURIA,FURIA,head,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,head,1,1
+S069,Mega Minors,100 Thieves,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,head,1,1
+S070,MIBR,LEVIATÁN,LEVIATÁN,MIBR,LEVIATÁN,marker,0,1,LEVIATÁN,LEVIATÁN,marker,1,1,MIBR,LEVIATÁN,head,0,1
+S071,Cloud9,LEVIATÁN,LEVIATÁN,Cloud9,LEVIATÁN,marker,0,1,Cloud9,LEVIATÁN,marker,0,1,Cloud9,LEVIATÁN,head,0,1
+S072,G2 Esports,Mega Minors,G2 Esports,Mega Minors,G2 Esports,tail,0,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S073,KRÜ Esports,Evil Geniuses,KRÜ Esports,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,marker,1,1,KRÜ Esports,KRÜ Esports,head,1,1
+S074,Cloud9,LEVIATÁN,LEVIATÁN,Cloud9,LEVIATÁN,marker,0,1,Cloud9,LEVIATÁN,marker,0,1,Cloud9,LEVIATÁN,head,0,1
+S075,KRÜ Esports,G2 Esports,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S076,G2 Esports,Cloud9,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,Cloud9,G2 Esports,head,0,1
+S077,100 Thieves,LOUD,100 Thieves,100 Thieves,100 Thieves,marker,1,1,LOUD,100 Thieves,marker,0,1,100 Thieves,100 Thieves,marker,1,1
+S078,FURIA,KRÜ Esports,KRÜ Esports,FURIA,KRÜ Esports,tail,0,1,FURIA,KRÜ Esports,marker,0,1,FURIA,KRÜ Esports,head,0,1
+S079,FURIA,100 Thieves,100 Thieves,FURIA,100 Thieves,marker,0,1,FURIA,100 Thieves,marker,0,1,FURIA,100 Thieves,marker,0,1
+S080,LOUD,Cloud9,LOUD,LOUD,LOUD,head,1,1,LOUD,LOUD,marker,1,1,LOUD,LOUD,marker,1,1
+S081,G2 Esports,ENVY,G2 Esports,ENVY,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1,ENVY,G2 Esports,marker,0,1
+S082,MIBR,LOUD,MIBR,MIBR,MIBR,tail,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,tail,1,1
+S083,KRÜ Esports,100 Thieves,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S084,FURIA,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,head,1,1,FURIA,LEVIATÁN,marker,0,1,FURIA,LEVIATÁN,marker,0,1
+S085,Gentle Mates,FUT Esports,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1
+S086,FUT Esports,Team Vitality,FUT Esports,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
+S087,Team Liquid,Team Heretics,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S088,FNATIC,Eternal Fire,FNATIC,FNATIC,Eternal Fire,marker,1,0,Eternal Fire,Eternal Fire,marker,0,0,Eternal Fire,Eternal Fire,marker,0,0
+S089,Eternal Fire,Team Vitality,Eternal Fire,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S090,Team Vitality,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S091,BBL Esports,PCIFIC Esports,BBL Esports,BBL Esports,BBL Esports,tail,1,1,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1
+S092,Eternal Fire,PCIFIC Esports,Eternal Fire,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S093,PCIFIC Esports,GIANTX,PCIFIC Esports,GIANTX,GIANTX,tail,0,0,PCIFIC Esports,GIANTX,marker,1,0,GIANTX,GIANTX,marker,0,0
+S094,FUT Esports,Eternal Fire,FUT Esports,Eternal Fire,Eternal Fire,tail,0,0,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
+S095,Team Heretics,Eternal Fire,Eternal Fire,Team Heretics,Eternal Fire,marker,0,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S096,PCIFIC Esports,FNATIC,FNATIC,FNATIC,FNATIC,tail,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S097,BBL Esports,PCIFIC Esports,BBL Esports,BBL Esports,BBL Esports,head,1,1,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1
+S098,Team Vitality,PCIFIC Esports,Team Vitality,Team Vitality,Team Vitality,head,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S099,Gentle Mates,FUT Esports,FUT Esports,Gentle Mates,FUT Esports,tail,0,1,Gentle Mates,FUT Esports,marker,0,1,Gentle Mates,FUT Esports,head,0,1
+S100,Gentle Mates,Karmine Corp,Karmine Corp,Gentle Mates,Karmine Corp,marker,0,1,Gentle Mates,Karmine Corp,marker,0,1,Gentle Mates,Karmine Corp,head,0,1
+S101,Team Heretics,BBL Esports,Team Heretics,Team Heretics,BBL Esports,marker,1,0,Team Heretics,BBL Esports,marker,1,0,BBL Esports,BBL Esports,marker,0,0
+S102,Gentle Mates,Team Liquid,Team Liquid,Gentle Mates,Team Liquid,marker,0,1,Gentle Mates,Team Liquid,marker,0,1,Gentle Mates,Team Liquid,head,0,1
+S103,Eternal Fire,PCIFIC Esports,Eternal Fire,Eternal Fire,PCIFIC Esports,marker,1,0,Eternal Fire,PCIFIC Esports,marker,1,0,Eternal Fire,PCIFIC Esports,marker,1,0
+S104,Karmine Corp,FUT Esports,FUT Esports,Karmine Corp,FUT Esports,marker,0,1,Karmine Corp,FUT Esports,marker,0,1,Karmine Corp,FUT Esports,marker,0,1
+S105,Team Vitality,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S106,FNATIC,Team Vitality,FNATIC,FNATIC,Team Vitality,marker,1,0,FNATIC,FNATIC,marker,1,1,FNATIC,Team Vitality,marker,1,0
+S107,Natus Vincere,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Natus Vincere,Team Liquid,marker,0,1,Natus Vincere,Natus Vincere,marker,0,0
+S108,Team Heretics,FUT Esports,Team Heretics,FUT Esports,FUT Esports,marker,0,0,Team Heretics,FUT Esports,marker,1,0,FUT Esports,FUT Esports,tail,0,0
+S109,Eternal Fire,Gentle Mates,Eternal Fire,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S110,Team Heretics,Natus Vincere,Natus Vincere,Team Heretics,Natus Vincere,marker,0,1,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,head,1,1
+S111,FNATIC,Team Vitality,Team Vitality,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0
+S112,BBL Esports,Team Vitality,Team Vitality,BBL Esports,Team Vitality,marker,0,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S113,FUT Esports,Team Liquid,FUT Esports,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
+S114,Natus Vincere,Karmine Corp,Natus Vincere,Natus Vincere,Natus Vincere,head,1,1,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,head,1,1
+S115,GIANTX,Eternal Fire,Eternal Fire,GIANTX,Eternal Fire,tail,0,1,GIANTX,Eternal Fire,marker,0,1,GIANTX,Eternal Fire,tail,0,1
+S116,FUT Esports,Natus Vincere,Natus Vincere,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,marker,1,1
+S117,FNATIC,Team Heretics,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S118,BBL Esports,GIANTX,GIANTX,BBL Esports,GIANTX,marker,0,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
+S119,Karmine Corp,FUT Esports,FUT Esports,Karmine Corp,FUT Esports,marker,0,1,Karmine Corp,FUT Esports,marker,0,1,FUT Esports,FUT Esports,tail,1,1
+S120,Team Heretics,BBL Esports,Team Heretics,Team Heretics,Team Heretics,head,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S121,GIANTX,FNATIC,GIANTX,GIANTX,GIANTX,head,1,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
+S122,FUT Esports,Eternal Fire,Eternal Fire,Eternal Fire,FUT Esports,tail,1,0,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,FUT Esports,marker,1,0
+S123,Eternal Fire,Team Heretics,Team Heretics,Eternal Fire,Team Heretics,marker,0,1,Eternal Fire,Team Heretics,marker,0,1,Eternal Fire,Team Heretics,marker,0,1
+S124,Gentle Mates,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Gentle Mates,Team Heretics,marker,0,1,Gentle Mates,Team Heretics,marker,0,1
+S125,FNATIC,Team Heretics,Team Heretics,FNATIC,Team Heretics,marker,0,1,FNATIC,Team Heretics,marker,0,1,FNATIC,Team Heretics,head,0,1
+S126,BBL Esports,FNATIC,FNATIC,BBL Esports,FNATIC,tail,0,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,head,1,1
+S127,Natus Vincere,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S128,Karmine Corp,Team Heretics,Karmine Corp,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1
+S129,BBL Esports,Team Vitality,BBL Esports,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1
+S130,Karmine Corp,Team Heretics,Team Heretics,Karmine Corp,Team Heretics,marker,0,1,Karmine Corp,Team Heretics,marker,0,1,Team Heretics,Team Heretics,head,1,1
+S131,FUT Esports,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S132,FNATIC,Eternal Fire,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S133,BBL Esports,Eternal Fire,Eternal Fire,Eternal Fire,Eternal Fire,tail,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,head,1,1
+S134,Team Heretics,FUT Esports,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,head,1,1
+S135,Team Liquid,Gentle Mates,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,head,1,1
+S136,FUT Esports,Natus Vincere,FUT Esports,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
+S137,PCIFIC Esports,FNATIC,FNATIC,FNATIC,PCIFIC Esports,tail,1,0,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,head,1,1
+S138,Team Liquid,Karmine Corp,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,head,1,1
+S139,Team Vitality,GIANTX,Team Vitality,Team Vitality,Team Vitality,head,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S140,FUT Esports,Team Heretics,Team Heretics,Team Heretics,Team Heretics,head,1,1,FUT Esports,Team Heretics,marker,0,1,Team Heretics,Team Heretics,marker,1,1
+S141,Gentle Mates,FUT Esports,FUT Esports,Gentle Mates,FUT Esports,marker,0,1,FUT Esports,FUT Esports,marker,1,1,FUT Esports,FUT Esports,marker,1,1
+S142,Eternal Fire,Gentle Mates,Eternal Fire,Eternal Fire,Eternal Fire,head,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S143,Team Liquid,Team Vitality,Team Vitality,Team Liquid,Team Vitality,tail,0,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S144,FUT Esports,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,FUT Esports,Team Heretics,marker,0,1,Team Heretics,Team Heretics,head,1,1
+S145,Karmine Corp,Team Heretics,Team Heretics,Karmine Corp,Team Heretics,marker,0,1,Karmine Corp,Team Heretics,marker,0,1,Karmine Corp,Team Heretics,head,0,1
+S146,Eternal Fire,Team Heretics,Eternal Fire,Eternal Fire,Eternal Fire,head,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S147,Team Vitality,PCIFIC Esports,Team Vitality,Team Vitality,Team Vitality,head,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,head,1,1
+S148,FUT Esports,Eternal Fire,FUT Esports,FUT Esports,FUT Esports,marker,1,1,Eternal Fire,FUT Esports,marker,0,1,FUT Esports,FUT Esports,marker,1,1
+S149,BBL Esports,GIANTX,BBL Esports,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1,GIANTX,BBL Esports,head,0,1
+S150,BBL Esports,FNATIC,FNATIC,FNATIC,BBL Esports,tail,1,0,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S151,Team Vitality,Team Heretics,Team Vitality,Team Vitality,Team Vitality,head,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S152,Eternal Fire,Team Vitality,Eternal Fire,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1,Eternal Fire,Eternal Fire,marker,1,1
+S153,GIANTX,FNATIC,FNATIC,GIANTX,FNATIC,marker,0,1,GIANTX,FNATIC,marker,0,1,GIANTX,FNATIC,head,0,1
+S154,Team Liquid,Gentle Mates,Gentle Mates,Team Liquid,Gentle Mates,marker,0,1,Team Liquid,Gentle Mates,marker,0,1,Team Liquid,Gentle Mates,marker,0,1
+S155,Kiwoom DRX,Nongshim RedForce,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,head,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,head,1,1
+S156,T1,Paper Rex,Paper Rex,T1,Paper Rex,head,0,1,Paper Rex,Paper Rex,marker,1,1,T1,Paper Rex,tail,0,1
+S157,Gen.G,Global Esports,Global Esports,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1
+S158,Rex Regum Qeon,Global Esports,Global Esports,Rex Regum Qeon,Rex Regum Qeon,marker,0,0,Rex Regum Qeon,Rex Regum Qeon,marker,0,0,Rex Regum Qeon,Rex Regum Qeon,marker,0,0
+S159,Team Secret,Kiwoom DRX,Kiwoom DRX,Team Secret,Team Secret,marker,0,0,Kiwoom DRX,Kiwoom DRX,marker,1,1,Team Secret,Team Secret,marker,0,0
+S160,Global Esports,Paper Rex,Paper Rex,Global Esports,Paper Rex,marker,0,1,Global Esports,Paper Rex,marker,0,1,Global Esports,Paper Rex,marker,0,1
+S161,FULL SENSE,VARREL,FULL SENSE,FULL SENSE,FULL SENSE,tail,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S162,Team Secret,Global Esports,Global Esports,Team Secret,Global Esports,marker,0,1,Team Secret,Global Esports,marker,0,1,Team Secret,Global Esports,head,0,1
+S163,FULL SENSE,Paper Rex,Paper Rex,FULL SENSE,Paper Rex,tail,0,1,FULL SENSE,Paper Rex,marker,0,1,FULL SENSE,Paper Rex,marker,0,1
+S164,DetonatioN FocusMe,VARREL,VARREL,DetonatioN FocusMe,VARREL,marker,0,1,DetonatioN FocusMe,VARREL,marker,0,1,VARREL,VARREL,head,1,1
+S165,Nongshim RedForce,Team Secret,Team Secret,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,head,1,1
+S166,Nongshim RedForce,Kiwoom DRX,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,head,1,1
+S167,Nongshim RedForce,Global Esports,Global Esports,Nongshim RedForce,Global Esports,marker,0,1,Global Esports,Global Esports,marker,1,1,Global Esports,Global Esports,marker,1,1
+S168,Rex Regum Qeon,VARREL,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,VARREL,VARREL,marker,0,0,VARREL,Rex Regum Qeon,head,0,1
+S169,Gen.G,Team Secret,Team Secret,Gen.G,Gen.G,marker,0,0,Gen.G,Gen.G,marker,0,0,Gen.G,Gen.G,tail,0,0
+S170,Rex Regum Qeon,FULL SENSE,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,FULL SENSE,Rex Regum Qeon,marker,0,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S171,Nongshim RedForce,Paper Rex,Paper Rex,Paper Rex,Nongshim RedForce,marker,1,0,Nongshim RedForce,Nongshim RedForce,marker,0,0,Nongshim RedForce,Nongshim RedForce,marker,0,0
+S172,Team Secret,Paper Rex,Paper Rex,Team Secret,Team Secret,marker,0,0,Team Secret,Team Secret,marker,0,0,Team Secret,Team Secret,head,0,0
+S173,Nongshim RedForce,Global Esports,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S174,Nongshim RedForce,Kiwoom DRX,Kiwoom DRX,Nongshim RedForce,Kiwoom DRX,marker,0,1,Kiwoom DRX,Nongshim RedForce,marker,1,0,Kiwoom DRX,Nongshim RedForce,tail,1,0
+S175,Rex Regum Qeon,ZETA DIVISION,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S176,FULL SENSE,Paper Rex,Paper Rex,FULL SENSE,Paper Rex,marker,0,1,FULL SENSE,Paper Rex,marker,0,1,FULL SENSE,Paper Rex,marker,0,1
+S177,FULL SENSE,DetonatioN FocusMe,FULL SENSE,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S178,Paper Rex,Global Esports,Global Esports,Paper Rex,Global Esports,marker,0,1,Paper Rex,Global Esports,marker,0,1,Global Esports,Global Esports,head,1,1
+S179,VARREL,ZETA DIVISION,VARREL,VARREL,VARREL,marker,1,1,VARREL,VARREL,marker,1,1,VARREL,VARREL,tail,1,1
+S180,Kiwoom DRX,Global Esports,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Global Esports,marker,1,0,Kiwoom DRX,Kiwoom DRX,head,1,1
+S181,Paper Rex,Kiwoom DRX,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S182,T1,Paper Rex,Paper Rex,T1,Paper Rex,tail,0,1,T1,Paper Rex,marker,0,1,T1,Paper Rex,marker,0,1
+S183,Global Esports,FULL SENSE,FULL SENSE,Global Esports,FULL SENSE,tail,0,1,Global Esports,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1
+S184,Rex Regum Qeon,DetonatioN FocusMe,DetonatioN FocusMe,Rex Regum Qeon,DetonatioN FocusMe,marker,0,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
+S185,DetonatioN FocusMe,VARREL,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
+S186,Rex Regum Qeon,DetonatioN FocusMe,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S187,FULL SENSE,Paper Rex,Paper Rex,FULL SENSE,Paper Rex,marker,0,1,Paper Rex,Paper Rex,marker,1,1,FULL SENSE,FULL SENSE,marker,0,0
+S188,Gen.G,Paper Rex,Gen.G,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1
+S189,Gen.G,Kiwoom DRX,Kiwoom DRX,Gen.G,Gen.G,tail,0,0,Gen.G,Kiwoom DRX,marker,0,1,Gen.G,Gen.G,marker,0,0
+S190,Paper Rex,Global Esports,Paper Rex,Paper Rex,Global Esports,marker,1,0,Paper Rex,Global Esports,marker,1,0,Paper Rex,Paper Rex,tail,1,1
+S191,Rex Regum Qeon,FULL SENSE,FULL SENSE,Rex Regum Qeon,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S192,Rex Regum Qeon,FULL SENSE,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S193,Team Secret,Paper Rex,Paper Rex,Team Secret,Team Secret,marker,0,0,Team Secret,Paper Rex,marker,0,1,Team Secret,Paper Rex,head,0,1
+S194,Team Secret,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1
+S195,Kiwoom DRX,FULL SENSE,FULL SENSE,Kiwoom DRX,FULL SENSE,tail,0,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S196,Global Esports,Paper Rex,Paper Rex,Global Esports,Paper Rex,marker,0,1,Global Esports,Paper Rex,marker,0,1,Global Esports,Paper Rex,marker,0,1
+S197,T1,FULL SENSE,FULL SENSE,T1,FULL SENSE,marker,0,1,T1,FULL SENSE,marker,0,1,T1,T1,marker,0,0
+S198,Rex Regum Qeon,ZETA DIVISION,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S199,Nongshim RedForce,Global Esports,Global Esports,Nongshim RedForce,Global Esports,tail,0,1,Global Esports,Global Esports,marker,1,1,Nongshim RedForce,Global Esports,head,0,1
+S200,T1,FULL SENSE,T1,T1,T1,marker,1,1,T1,FULL SENSE,marker,1,0,T1,FULL SENSE,tail,1,0
+S201,Nongshim RedForce,Gen.G,Nongshim RedForce,Gen.G,Nongshim RedForce,marker,0,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Gen.G,Nongshim RedForce,head,0,1
+S202,FULL SENSE,ZETA DIVISION,FULL SENSE,ZETA DIVISION,FULL SENSE,head,0,1,FULL SENSE,FULL SENSE,marker,1,1,ZETA DIVISION,FULL SENSE,head,0,1
+S203,ZETA DIVISION,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,head,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
+S204,FULL SENSE,VARREL,FULL SENSE,VARREL,FULL SENSE,head,0,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S205,T1,Rex Regum Qeon,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S206,FULL SENSE,ZETA DIVISION,FULL SENSE,ZETA DIVISION,FULL SENSE,head,0,1,ZETA DIVISION,FULL SENSE,marker,0,1,FULL SENSE,FULL SENSE,marker,1,1
+S207,Gen.G,Kiwoom DRX,Gen.G,Gen.G,Gen.G,head,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1
+S208,Gen.G,Global Esports,Global Esports,Global Esports,Global Esports,marker,1,1,Gen.G,Global Esports,marker,0,1,Gen.G,Global Esports,marker,0,1
+S209,Kiwoom DRX,Nongshim RedForce,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,head,1,1
+S210,Rex Regum Qeon,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,head,1,1,ZETA DIVISION,ZETA DIVISION,marker,1,1,ZETA DIVISION,ZETA DIVISION,head,1,1
+S211,Gen.G,Paper Rex,Gen.G,Gen.G,Gen.G,head,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1
+S212,T1,VARREL,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S213,Paper Rex,Kiwoom DRX,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S214,T1,ZETA DIVISION,T1,T1,T1,head,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S215,Nongshim RedForce,Paper Rex,Paper Rex,Paper Rex,Paper Rex,head,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,tail,1,1
+S216,Global Esports,Paper Rex,Paper Rex,Paper Rex,Paper Rex,head,1,1,Global Esports,Paper Rex,marker,0,1,Paper Rex,Paper Rex,head,1,1
+S217,Paper Rex,Kiwoom DRX,Paper Rex,Paper Rex,Paper Rex,head,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S218,FULL SENSE,DetonatioN FocusMe,FULL SENSE,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1,DetonatioN FocusMe,FULL SENSE,head,0,1
+S219,T1,Rex Regum Qeon,T1,T1,T1,head,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S220,Gen.G,Team Secret,Team Secret,Gen.G,Team Secret,marker,0,1,Gen.G,Team Secret,marker,0,1,Gen.G,Team Secret,head,0,1
+S221,Paper Rex,Global Esports,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,head,1,1
+S222,Gen.G,Paper Rex,Paper Rex,Gen.G,Paper Rex,tail,0,1,Gen.G,Paper Rex,marker,0,1,Gen.G,Paper Rex,marker,0,1
+S223,Nongshim RedForce,Team Secret,Nongshim RedForce,Team Secret,Nongshim RedForce,head,0,1,Team Secret,Nongshim RedForce,marker,0,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S224,Paper Rex,Global Esports,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Global Esports,Paper Rex,head,0,1
+S225,T1,ZETA DIVISION,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S226,DetonatioN FocusMe,T1,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,head,1,1
+S227,ZETA DIVISION,DetonatioN FocusMe,DetonatioN FocusMe,ZETA DIVISION,DetonatioN FocusMe,marker,0,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,ZETA DIVISION,marker,1,0
+S228,Paper Rex,Kiwoom DRX,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S229,Paper Rex,G2 Esports,Paper Rex,Paper Rex,Paper Rex,head,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,head,1,1
+S230,Nongshim RedForce,Gentle Mates,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Gentle Mates,Nongshim RedForce,marker,0,1,Gentle Mates,Nongshim RedForce,marker,0,1
+S231,Paper Rex,All Gamers,All Gamers,Paper Rex,All Gamers,marker,0,1,Paper Rex,All Gamers,marker,0,1,Paper Rex,Paper Rex,tail,0,0
+S232,FURIA,BBL Esports,FURIA,FURIA,BBL Esports,tail,1,0,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S233,Gentle Mates,Team Liquid,Gentle Mates,Gentle Mates,Team Liquid,marker,1,0,Gentle Mates,Team Liquid,marker,1,0,Gentle Mates,Team Liquid,marker,1,0
+S234,EDward Gaming,T1,T1,T1,T1,marker,1,1,EDward Gaming,T1,marker,0,1,T1,T1,marker,1,1
+S235,Mega Minors,Paper Rex,Paper Rex,Mega Minors,Paper Rex,tail,0,1,Mega Minors,Paper Rex,marker,0,1,Mega Minors,Mega Minors,marker,0,0
+S236,Nongshim RedForce,Mega Minors,Nongshim RedForce,Mega Minors,Nongshim RedForce,marker,0,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S237,G2 Esports,T1,G2 Esports,T1,T1,head,0,0,T1,T1,marker,0,0,T1,T1,marker,0,0
+S238,Gentle Mates,EDward Gaming,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1
+S239,T1,Team Liquid,Team Liquid,T1,Team Liquid,marker,0,1,T1,Team Liquid,marker,0,1,T1,Team Liquid,marker,0,1
+S240,BBL Esports,Mega Minors,Mega Minors,BBL Esports,Mega Minors,marker,0,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S241,Paper Rex,Mega Minors,Paper Rex,Paper Rex,Paper Rex,tail,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S242,FURIA,Paper Rex,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S243,Mega Minors,Team Liquid,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S244,G2 Esports,BBL Esports,G2 Esports,BBL Esports,BBL Esports,marker,0,0,G2 Esports,BBL Esports,marker,1,0,BBL Esports,BBL Esports,marker,0,0
+S245,Xi Lai Gaming,Mega Minors,Mega Minors,Xi Lai Gaming,Mega Minors,marker,0,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Xi Lai Gaming,marker,1,0
+S246,G2 Esports,Paper Rex,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,tail,1,1
+S247,Nongshim RedForce,Mega Minors,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,head,1,1
+S248,T1,Team Liquid,Team Liquid,T1,Team Liquid,marker,0,1,T1,Team Liquid,marker,0,1,T1,Team Liquid,tail,0,1
+S249,Paper Rex,Mega Minors,Mega Minors,Paper Rex,Mega Minors,marker,0,1,Paper Rex,Mega Minors,marker,0,1,Paper Rex,Mega Minors,marker,0,1
+S250,Paper Rex,G2 Esports,G2 Esports,Paper Rex,G2 Esports,marker,0,1,Paper Rex,G2 Esports,tail,0,1,Paper Rex,G2 Esports,tail,0,1
+S251,FURIA,BBL Esports,BBL Esports,FURIA,BBL Esports,marker,0,1,FURIA,BBL Esports,marker,0,1,FURIA,BBL Esports,marker,0,1
+S252,Nongshim RedForce,Paper Rex,Nongshim RedForce,Nongshim RedForce,Paper Rex,marker,1,0,Paper Rex,Paper Rex,marker,0,0,Paper Rex,Paper Rex,marker,0,0
+S253,Nongshim RedForce,G2 Esports,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S254,Paper Rex,Mega Minors,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Mega Minors,Paper Rex,head,0,1
+S255,FURIA,Paper Rex,Paper Rex,FURIA,Paper Rex,head,0,1,FURIA,Paper Rex,marker,0,1,FURIA,Paper Rex,marker,0,1
+S256,Gentle Mates,All Gamers,All Gamers,Gentle Mates,All Gamers,marker,0,1,Gentle Mates,All Gamers,marker,0,1,Gentle Mates,All Gamers,marker,0,1
+S257,Gentle Mates,EDward Gaming,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,head,1,1
+S258,Mega Minors,Paper Rex,Paper Rex,Mega Minors,Paper Rex,head,0,1,Paper Rex,Paper Rex,marker,1,1,Mega Minors,Paper Rex,marker,0,1
+S259,BBL Esports,Mega Minors,BBL Esports,Mega Minors,BBL Esports,head,0,1,BBL Esports,BBL Esports,marker,1,1,Mega Minors,BBL Esports,marker,0,1
+S260,FURIA,Paper Rex,Paper Rex,FURIA,Paper Rex,marker,0,1,FURIA,Paper Rex,marker,0,1,FURIA,Paper Rex,marker,0,1
+S261,All Gamers,G2 Esports,G2 Esports,All Gamers,G2 Esports,head,0,1,G2 Esports,G2 Esports,marker,1,1,All Gamers,G2 Esports,marker,0,1
+S262,Xi Lai Gaming,Mega Minors,Mega Minors,Xi Lai Gaming,Xi Lai Gaming,marker,0,0,Mega Minors,Mega Minors,marker,1,1,Xi Lai Gaming,Mega Minors,marker,0,1
+S263,Mega Minors,Paper Rex,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Mega Minors,Paper Rex,marker,0,1,Mega Minors,Paper Rex,marker,0,1
+S264,Xi Lai Gaming,G2 Esports,G2 Esports,Xi Lai Gaming,G2 Esports,head,0,1,Xi Lai Gaming,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
+S265,G2 Esports,Paper Rex,Paper Rex,Paper Rex,Paper Rex,head,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,head,1,1
+S266,All Gamers,G2 Esports,G2 Esports,All Gamers,G2 Esports,marker,0,1,All Gamers,G2 Esports,marker,0,1,All Gamers,G2 Esports,marker,0,1
+S267,Gentle Mates,All Gamers,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1
+S268,Gentle Mates,Team Liquid,Gentle Mates,Gentle Mates,Gentle Mates,head,1,1,Gentle Mates,Gentle Mates,marker,1,1,Team Liquid,Gentle Mates,head,0,1
+S269,EDward Gaming,T1,T1,EDward Gaming,EDward Gaming,tail,0,0,EDward Gaming,T1,marker,0,1,EDward Gaming,T1,marker,0,1
+S270,Paper Rex,All Gamers,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S271,Nongshim RedForce,G2 Esports,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,head,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S272,Paper Rex,G2 Esports,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,head,1,1
+S273,Nongshim RedForce,G2 Esports,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,head,1,1
+S274,Nongshim RedForce,Paper Rex,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Paper Rex,Nongshim RedForce,marker,0,1
+S275,Paper Rex,All Gamers,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S276,G2 Esports,T1,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,T1,G2 Esports,head,0,1
+S277,BBL Esports,Mega Minors,Mega Minors,BBL Esports,Mega Minors,tail,0,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S278,FURIA,BBL Esports,BBL Esports,FURIA,BBL Esports,marker,0,1,BBL Esports,BBL Esports,marker,1,1,FURIA,BBL Esports,marker,0,1
+S279,G2 Esports,BBL Esports,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S280,Mega Minors,Team Liquid,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S281,MIBR,FURIA,MIBR,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S282,Mega Minors,MIBR,MIBR,Mega Minors,MIBR,marker,0,1,MIBR,MIBR,marker,1,1,Mega Minors,MIBR,tail,0,1
+S283,LOUD,Evil Geniuses,Evil Geniuses,LOUD,LOUD,marker,0,0,LOUD,LOUD,marker,0,0,LOUD,LOUD,marker,0,0
+S284,MIBR,Mega Minors,MIBR,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S285,100 Thieves,Evil Geniuses,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S286,MIBR,FURIA,FURIA,MIBR,FURIA,marker,0,1,MIBR,FURIA,marker,0,1,MIBR,MIBR,marker,0,0
+S287,KRÜ Esports,FURIA,KRÜ Esports,FURIA,FURIA,marker,0,0,FURIA,FURIA,marker,0,0,FURIA,FURIA,marker,0,0
+S288,G2 Esports,100 Thieves,G2 Esports,G2 Esports,G2 Esports,marker,1,1,100 Thieves,G2 Esports,marker,0,1,G2 Esports,G2 Esports,head,1,1
+S289,100 Thieves,LEVIATÁN,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S290,LOUD,Cloud9,Cloud9,LOUD,Cloud9,marker,0,1,LOUD,Cloud9,marker,0,1,LOUD,LOUD,marker,0,0
+S291,100 Thieves,LEVIATÁN,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S292,Mega Minors,MIBR,MIBR,Mega Minors,MIBR,marker,0,1,Mega Minors,MIBR,marker,0,1,Mega Minors,MIBR,head,0,1
+S293,ENVY,Evil Geniuses,Evil Geniuses,ENVY,Evil Geniuses,marker,0,1,Evil Geniuses,Evil Geniuses,marker,1,1,ENVY,Evil Geniuses,head,0,1
+S294,LEVIATÁN,Cloud9,Cloud9,LEVIATÁN,Cloud9,marker,0,1,LEVIATÁN,Cloud9,marker,0,1,LEVIATÁN,Cloud9,head,0,1
+S295,KRÜ Esports,ENVY,KRÜ Esports,ENVY,KRÜ Esports,head,0,1,KRÜ Esports,KRÜ Esports,marker,1,1,ENVY,KRÜ Esports,head,0,1
+S296,G2 Esports,100 Thieves,G2 Esports,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1,G2 Esports,G2 Esports,marker,1,1
+S297,Mega Minors,100 Thieves,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S298,Evil Geniuses,Sentinels,Sentinels,Sentinels,Sentinels,tail,1,1,Sentinels,Sentinels,marker,1,1,Sentinels,Sentinels,marker,1,1
+S299,Mega Minors,Cloud9,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S300,Evil Geniuses,Sentinels,Sentinels,Evil Geniuses,Sentinels,marker,0,1,Evil Geniuses,Sentinels,marker,0,1,Sentinels,Sentinels,marker,1,1
+S301,100 Thieves,Cloud9,100 Thieves,100 Thieves,100 Thieves,marker,1,1,Cloud9,100 Thieves,marker,0,1,100 Thieves,100 Thieves,tail,1,1
+S302,G2 Esports,Cloud9,G2 Esports,Cloud9,G2 Esports,head,0,1,Cloud9,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
+S303,KRÜ Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,KRÜ Esports,LEVIATÁN,marker,0,1,LEVIATÁN,LEVIATÁN,marker,1,1
+S304,ENVY,Evil Geniuses,Evil Geniuses,ENVY,ENVY,marker,0,0,ENVY,Evil Geniuses,marker,0,1,ENVY,Evil Geniuses,head,0,1
+S305,G2 Esports,Cloud9,G2 Esports,G2 Esports,G2 Esports,marker,1,1,Cloud9,G2 Esports,marker,0,1,G2 Esports,G2 Esports,marker,1,1
+S306,Mega Minors,100 Thieves,Mega Minors,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S307,KRÜ Esports,FURIA,FURIA,FURIA,KRÜ Esports,tail,1,0,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1
+S308,KRÜ Esports,ENVY,ENVY,ENVY,ENVY,tail,1,1,ENVY,ENVY,marker,1,1,ENVY,ENVY,head,1,1
+S309,FURIA,G2 Esports,FURIA,FURIA,FURIA,tail,1,1,FURIA,FURIA,marker,1,1,FURIA,G2 Esports,marker,1,0
+S310,LEVIATÁN,Cloud9,Cloud9,LEVIATÁN,Cloud9,marker,0,1,LEVIATÁN,Cloud9,marker,0,1,LEVIATÁN,LEVIATÁN,tail,0,0
+S311,MIBR,G2 Esports,G2 Esports,MIBR,G2 Esports,tail,0,1,MIBR,G2 Esports,marker,0,1,MIBR,G2 Esports,marker,0,1
+S312,LOUD,Cloud9,Cloud9,LOUD,Cloud9,marker,0,1,LOUD,Cloud9,marker,0,1,LOUD,Cloud9,marker,0,1
+S313,FURIA,G2 Esports,FURIA,FURIA,FURIA,marker,1,1,FURIA,FURIA,marker,1,1,FURIA,G2 Esports,marker,1,0
+S314,Cloud9,LEVIATÁN,Cloud9,Cloud9,LEVIATÁN,tail,1,0,Cloud9,Cloud9,marker,1,1,Cloud9,Cloud9,head,1,1
+S315,Cloud9,LEVIATÁN,Cloud9,Cloud9,Cloud9,marker,1,1,Cloud9,Cloud9,marker,1,1,Cloud9,Cloud9,marker,1,1
+S316,FURIA,G2 Esports,G2 Esports,FURIA,G2 Esports,marker,0,1,FURIA,G2 Esports,marker,0,1,FURIA,G2 Esports,tail,0,1
+S317,MIBR,Mega Minors,MIBR,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S318,KRÜ Esports,FURIA,FURIA,FURIA,FURIA,tail,1,1,FURIA,FURIA,tail,1,1,FURIA,FURIA,head,1,1
+S319,Sentinels,FURIA,FURIA,Sentinels,FURIA,tail,0,1,FURIA,FURIA,marker,1,1,Sentinels,FURIA,head,0,1
+S320,G2 Esports,100 Thieves,100 Thieves,100 Thieves,100 Thieves,head,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S321,Mega Minors,Cloud9,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,Mega Minors,marker,1,1
+S322,KRÜ Esports,LEVIATÁN,LEVIATÁN,LEVIATÁN,LEVIATÁN,marker,1,1,KRÜ Esports,LEVIATÁN,marker,0,1,LEVIATÁN,LEVIATÁN,head,1,1
+S323,MIBR,G2 Esports,G2 Esports,MIBR,G2 Esports,tail,0,1,G2 Esports,G2 Esports,marker,1,1,MIBR,G2 Esports,marker,0,1
+S324,MIBR,ENVY,MIBR,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S325,MIBR,Mega Minors,Mega Minors,MIBR,Mega Minors,marker,0,1,Mega Minors,Mega Minors,marker,1,1,MIBR,Mega Minors,marker,0,1
+S326,MIBR,G2 Esports,G2 Esports,MIBR,MIBR,tail,0,0,MIBR,G2 Esports,marker,0,1,MIBR,G2 Esports,marker,0,1
+S327,Mega Minors,G2 Esports,G2 Esports,Mega Minors,G2 Esports,tail,0,1,Mega Minors,G2 Esports,marker,0,1,Mega Minors,G2 Esports,marker,0,1
+S328,MIBR,Mega Minors,Mega Minors,MIBR,Mega Minors,marker,0,1,MIBR,Mega Minors,marker,0,1,MIBR,Mega Minors,marker,0,1
+S329,MIBR,FURIA,MIBR,MIBR,FURIA,tail,1,0,MIBR,MIBR,marker,1,1,MIBR,MIBR,marker,1,1
+S330,LOUD,100 Thieves,100 Thieves,LOUD,LOUD,marker,0,0,LOUD,100 Thieves,marker,0,1,LOUD,LOUD,marker,0,0
+S331,Mega Minors,MIBR,Mega Minors,Mega Minors,Mega Minors,head,1,1,Mega Minors,Mega Minors,marker,1,1,Mega Minors,MIBR,marker,1,0
+S332,LOUD,Evil Geniuses,Evil Geniuses,LOUD,Evil Geniuses,head,0,1,LOUD,Evil Geniuses,marker,0,1,LOUD,LOUD,marker,0,0
+S333,100 Thieves,Cloud9,100 Thieves,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1,100 Thieves,100 Thieves,marker,1,1
+S334,LOUD,100 Thieves,100 Thieves,LOUD,100 Thieves,marker,0,1,LOUD,100 Thieves,marker,0,1,100 Thieves,100 Thieves,marker,1,1
+S335,Gentle Mates,FNATIC,FNATIC,Gentle Mates,FNATIC,marker,0,1,Gentle Mates,FNATIC,marker,0,1,Gentle Mates,FNATIC,head,0,1
+S336,Team Vitality,GIANTX,Team Vitality,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1,GIANTX,Team Vitality,marker,0,1
+S337,Team Heretics,Karmine Corp,Team Heretics,Karmine Corp,Team Heretics,head,0,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,head,1,1
+S338,Team Vitality,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S339,Gentle Mates,BBL Esports,BBL Esports,Gentle Mates,BBL Esports,marker,0,1,Gentle Mates,BBL Esports,marker,0,1,BBL Esports,BBL Esports,marker,1,1
+S340,Gentle Mates,FNATIC,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,FNATIC,marker,1,0
+S341,GIANTX,Gentle Mates,Gentle Mates,GIANTX,Gentle Mates,marker,0,1,GIANTX,Gentle Mates,marker,0,1,GIANTX,Gentle Mates,marker,0,1
+S342,FUT Esports,FNATIC,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,head,1,1
+S343,Team Liquid,Team Vitality,Team Vitality,Team Liquid,Team Vitality,marker,0,1,Team Liquid,Team Vitality,marker,0,1,Team Vitality,Team Vitality,marker,1,1
+S344,Team Heretics,Natus Vincere,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S345,FNATIC,BBL Esports,BBL Esports,FNATIC,BBL Esports,tail,0,1,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0
+S346,Team Liquid,ULF Esports,ULF Esports,Team Liquid,Team Liquid,marker,0,0,Team Liquid,Team Liquid,marker,0,0,Team Liquid,Team Liquid,marker,0,0
+S347,FNATIC,Team Vitality,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,Team Vitality,marker,1,0,FNATIC,FNATIC,marker,1,1
+S348,GIANTX,Team Heretics,GIANTX,GIANTX,Team Heretics,marker,1,0,GIANTX,Team Heretics,marker,1,0,GIANTX,Team Heretics,marker,1,0
+S349,BBL Esports,Team Vitality,BBL Esports,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1,BBL Esports,BBL Esports,marker,1,1
+S350,PCIFIC Esports,GIANTX,GIANTX,GIANTX,GIANTX,tail,1,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
+S351,Gentle Mates,FNATIC,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,head,1,1
+S352,ULF Esports,Team Heretics,Team Heretics,ULF Esports,Team Heretics,marker,0,1,ULF Esports,Team Heretics,marker,0,1,Team Heretics,Team Heretics,marker,1,1
+S353,Karmine Corp,Team Liquid,Team Liquid,Karmine Corp,Team Liquid,marker,0,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S354,Natus Vincere,Gentle Mates,Gentle Mates,Natus Vincere,Natus Vincere,tail,0,0,Gentle Mates,Gentle Mates,marker,1,1,Natus Vincere,Gentle Mates,head,0,1
+S355,Team Heretics,Team Liquid,Team Liquid,Team Heretics,Team Liquid,marker,0,1,Team Heretics,Team Liquid,marker,0,1,Team Liquid,Team Liquid,marker,1,1
+S356,Team Heretics,Karmine Corp,Team Heretics,Team Heretics,Team Heretics,tail,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S357,Natus Vincere,Karmine Corp,Natus Vincere,Karmine Corp,Karmine Corp,marker,0,0,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,marker,1,1
+S358,GIANTX,Team Liquid,Team Liquid,GIANTX,Team Liquid,marker,0,1,Team Liquid,Team Liquid,marker,1,1,GIANTX,Team Liquid,head,0,1
+S359,FNATIC,Team Liquid,Team Liquid,FNATIC,Team Liquid,marker,0,1,Team Liquid,FNATIC,marker,1,0,FNATIC,FNATIC,marker,0,0
+S360,GIANTX,Gentle Mates,Gentle Mates,GIANTX,GIANTX,marker,0,0,GIANTX,GIANTX,marker,0,0,GIANTX,GIANTX,marker,0,0
+S361,FUT Esports,FNATIC,FUT Esports,FUT Esports,FNATIC,tail,1,0,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0
+S362,Gentle Mates,BBL Esports,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,BBL Esports,marker,1,0,Gentle Mates,Gentle Mates,marker,1,1
+S363,FUT Esports,Gentle Mates,Gentle Mates,FUT Esports,Gentle Mates,marker,0,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,marker,1,1
+S364,FNATIC,Team Liquid,Team Liquid,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0,FNATIC,FNATIC,marker,0,0
+S365,PCIFIC Esports,ULF Esports,ULF Esports,ULF Esports,ULF Esports,marker,1,1,ULF Esports,ULF Esports,marker,1,1,ULF Esports,ULF Esports,marker,1,1
+S366,Gentle Mates,BBL Esports,BBL Esports,Gentle Mates,BBL Esports,head,0,1,Gentle Mates,BBL Esports,marker,0,1,Gentle Mates,BBL Esports,marker,0,1
+S367,PCIFIC Esports,ULF Esports,ULF Esports,ULF Esports,ULF Esports,marker,1,1,ULF Esports,ULF Esports,marker,1,1,ULF Esports,ULF Esports,head,1,1
+S368,GIANTX,Team Liquid,GIANTX,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
+S369,Team Vitality,GIANTX,Team Vitality,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1
+S370,Karmine Corp,Team Liquid,Karmine Corp,Karmine Corp,Karmine Corp,head,1,1,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1
+S371,FUT Esports,FNATIC,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S372,Gentle Mates,FNATIC,Gentle Mates,Gentle Mates,Gentle Mates,tail,1,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,tail,1,1
+S373,Team Heretics,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S374,Team Liquid,FNATIC,FNATIC,Team Liquid,FNATIC,head,0,1,Team Liquid,FNATIC,marker,0,1,Team Liquid,FNATIC,marker,0,1
+S375,Natus Vincere,Karmine Corp,Natus Vincere,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,head,1,1
+S376,ULF Esports,Team Vitality,Team Vitality,ULF Esports,Team Vitality,marker,0,1,ULF Esports,Team Vitality,marker,0,1,Team Vitality,Team Vitality,marker,1,1
+S377,Natus Vincere,FNATIC,Natus Vincere,Natus Vincere,UNCLEAR,none,1,0,Natus Vincere,Natus Vincere,marker,1,1,FNATIC,Natus Vincere,head,0,1
+S378,ULF Esports,Team Vitality,Team Vitality,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,marker,1,1,Team Vitality,Team Vitality,head,1,1
+S379,GIANTX,Team Heretics,GIANTX,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1,GIANTX,GIANTX,marker,1,1
+S380,Natus Vincere,Gentle Mates,Gentle Mates,Natus Vincere,Gentle Mates,marker,0,1,Natus Vincere,Gentle Mates,marker,0,1,Natus Vincere,Gentle Mates,marker,0,1
+S381,GIANTX,Team Liquid,Team Liquid,GIANTX,Team Liquid,marker,0,1,GIANTX,Team Liquid,marker,0,1,GIANTX,Team Liquid,head,0,1
+S382,FUT Esports,Gentle Mates,Gentle Mates,FUT Esports,Gentle Mates,marker,0,1,Gentle Mates,Gentle Mates,marker,1,1,Gentle Mates,Gentle Mates,head,1,1
+S383,PCIFIC Esports,BBL Esports,PCIFIC Esports,PCIFIC Esports,PCIFIC Esports,head,1,1,PCIFIC Esports,PCIFIC Esports,marker,1,1,PCIFIC Esports,PCIFIC Esports,head,1,1
+S384,FNATIC,Team Vitality,FNATIC,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1,FNATIC,FNATIC,marker,1,1
+S385,PCIFIC Esports,BBL Esports,BBL Esports,BBL Esports,BBL Esports,head,1,1,PCIFIC Esports,BBL Esports,marker,0,1,BBL Esports,BBL Esports,marker,1,1
+S386,Natus Vincere,Team Heretics,Team Heretics,Team Heretics,Team Heretics,tail,1,1,Team Heretics,Team Heretics,marker,1,1,Natus Vincere,Natus Vincere,marker,0,0
+S387,Gentle Mates,BBL Esports,Gentle Mates,Gentle Mates,Gentle Mates,marker,1,1,BBL Esports,Gentle Mates,marker,0,1,Gentle Mates,Gentle Mates,marker,1,1
+S388,Team Heretics,Karmine Corp,Karmine Corp,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Team Heretics,marker,1,0
+S389,FNATIC,Team Liquid,Team Liquid,FNATIC,Team Liquid,marker,0,1,Team Liquid,Team Liquid,marker,1,1,FNATIC,Team Liquid,marker,0,1
+S390,Natus Vincere,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Natus Vincere,Team Heretics,head,0,1
+S391,FNATIC,BBL Esports,BBL Esports,FNATIC,BBL Esports,marker,0,1,BBL Esports,BBL Esports,marker,1,1,FNATIC,BBL Esports,tail,0,1
+S392,ULF Esports,Team Heretics,Team Heretics,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1,Team Heretics,Team Heretics,marker,1,1
+S393,Karmine Corp,FUT Esports,Karmine Corp,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1,Karmine Corp,Karmine Corp,marker,1,1
+S394,Team Vitality,Team Liquid,Team Liquid,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,head,1,1
+S395,Team Liquid,ULF Esports,Team Liquid,Team Liquid,ULF Esports,marker,1,0,Team Liquid,Team Liquid,marker,1,1,Team Liquid,Team Liquid,marker,1,1
+S396,Team Heretics,Natus Vincere,Natus Vincere,Team Heretics,Team Heretics,tail,0,0,Natus Vincere,Natus Vincere,marker,1,1,Natus Vincere,Natus Vincere,head,1,1
+S397,Paper Rex,T1,T1,Paper Rex,T1,tail,0,1,Paper Rex,T1,marker,0,1,Paper Rex,T1,head,0,1
+S398,Nongshim RedForce,Rex Regum Qeon,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S399,Paper Rex,T1,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,head,1,1
+S400,Rex Regum Qeon,T1,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S401,VARREL,Gen.G,Gen.G,VARREL,Gen.G,marker,0,1,VARREL,Gen.G,marker,0,1,VARREL,Gen.G,tail,0,1
+S402,Kiwoom DRX,Paper Rex,Paper Rex,Kiwoom DRX,Paper Rex,marker,0,1,Kiwoom DRX,Paper Rex,marker,0,1,Paper Rex,Kiwoom DRX,head,1,0
+S403,VARREL,Kiwoom DRX,VARREL,VARREL,Kiwoom DRX,marker,1,0,VARREL,VARREL,marker,1,1,VARREL,Kiwoom DRX,marker,1,0
+S404,Kiwoom DRX,T1,T1,T1,T1,marker,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S405,T1,Nongshim RedForce,T1,T1,T1,tail,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S406,FULL SENSE,DetonatioN FocusMe,DetonatioN FocusMe,FULL SENSE,DetonatioN FocusMe,marker,0,1,FULL SENSE,DetonatioN FocusMe,marker,0,1,FULL SENSE,DetonatioN FocusMe,marker,0,1
+S407,Paper Rex,Global Esports,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,tail,1,1
+S408,T1,Nongshim RedForce,Nongshim RedForce,T1,Nongshim RedForce,marker,0,1,T1,Nongshim RedForce,marker,0,1,T1,Nongshim RedForce,marker,0,1
+S409,Kiwoom DRX,FULL SENSE,FULL SENSE,Kiwoom DRX,FULL SENSE,head,0,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S410,Nongshim RedForce,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Rex Regum Qeon,Rex Regum Qeon,marker,1,1
+S411,FULL SENSE,Kiwoom DRX,Kiwoom DRX,FULL SENSE,Kiwoom DRX,marker,0,1,FULL SENSE,Kiwoom DRX,marker,0,1,FULL SENSE,Kiwoom DRX,marker,0,1
+S412,VARREL,Kiwoom DRX,Kiwoom DRX,VARREL,Kiwoom DRX,marker,0,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,VARREL,Kiwoom DRX,head,0,1
+S413,DetonatioN FocusMe,Global Esports,DetonatioN FocusMe,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
+S414,Rex Regum Qeon,Paper Rex,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,head,1,1,Paper Rex,Rex Regum Qeon,marker,0,1,Rex Regum Qeon,UNCLEAR,none,1,0
+S415,Gen.G,T1,T1,Gen.G,T1,marker,0,1,Gen.G,T1,marker,0,1,Gen.G,Gen.G,marker,0,0
+S416,Team Secret,DetonatioN FocusMe,DetonatioN FocusMe,Team Secret,DetonatioN FocusMe,marker,0,1,Team Secret,DetonatioN FocusMe,marker,0,1,DetonatioN FocusMe,DetonatioN FocusMe,marker,1,1
+S417,Nongshim RedForce,FULL SENSE,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,FULL SENSE,Nongshim RedForce,marker,0,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S418,Kiwoom DRX,ZETA DIVISION,Kiwoom DRX,Kiwoom DRX,Kiwoom DRX,marker,1,1,Kiwoom DRX,Kiwoom DRX,marker,1,1,ZETA DIVISION,ZETA DIVISION,marker,0,0
+S419,VARREL,Kiwoom DRX,Kiwoom DRX,VARREL,Kiwoom DRX,head,0,1,VARREL,Kiwoom DRX,marker,0,1,VARREL,Kiwoom DRX,marker,0,1
+S420,FULL SENSE,DetonatioN FocusMe,DetonatioN FocusMe,FULL SENSE,DetonatioN FocusMe,marker,0,1,FULL SENSE,DetonatioN FocusMe,marker,0,1,FULL SENSE,DetonatioN FocusMe,marker,0,1
+S421,Nongshim RedForce,Team Secret,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S422,Kiwoom DRX,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,ZETA DIVISION,marker,1,1,ZETA DIVISION,ZETA DIVISION,marker,1,1,ZETA DIVISION,ZETA DIVISION,head,1,1
+S423,Paper Rex,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,marker,1,1,Paper Rex,Rex Regum Qeon,marker,0,1,Paper Rex,Rex Regum Qeon,head,0,1
+S424,Gen.G,T1,Gen.G,Gen.G,Gen.G,marker,1,1,Gen.G,Gen.G,marker,1,1,Gen.G,T1,marker,1,0
+S425,DetonatioN FocusMe,Global Esports,Global Esports,Global Esports,Global Esports,head,1,1,Global Esports,Global Esports,marker,1,1,Global Esports,Global Esports,marker,1,1
+S426,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,marker,1,1
+S427,Nongshim RedForce,Rex Regum Qeon,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S428,T1,Nongshim RedForce,Nongshim RedForce,T1,Nongshim RedForce,head,0,1,T1,Nongshim RedForce,marker,0,1,T1,Nongshim RedForce,head,0,1
+S429,ZETA DIVISION,FULL SENSE,FULL SENSE,FULL SENSE,FULL SENSE,head,1,1,FULL SENSE,FULL SENSE,marker,1,1,FULL SENSE,FULL SENSE,head,1,1
+S430,Paper Rex,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,Rex Regum Qeon,head,1,1,Paper Rex,Rex Regum Qeon,marker,0,1,Paper Rex,Rex Regum Qeon,head,0,1
+S431,Team Secret,ZETA DIVISION,ZETA DIVISION,Team Secret,Team Secret,tail,0,0,ZETA DIVISION,ZETA DIVISION,marker,1,1,ZETA DIVISION,Team Secret,tail,1,0
+S432,VARREL,Global Esports,Global Esports,VARREL,Global Esports,marker,0,1,VARREL,Global Esports,marker,0,1,VARREL,Global Esports,marker,0,1
+S433,VARREL,Global Esports,Global Esports,VARREL,Global Esports,tail,0,1,VARREL,Global Esports,marker,0,1,VARREL,Global Esports,marker,0,1
+S434,DetonatioN FocusMe,Paper Rex,Paper Rex,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1,Paper Rex,Paper Rex,marker,1,1
+S435,Kiwoom DRX,ZETA DIVISION,Kiwoom DRX,Kiwoom DRX,ZETA DIVISION,tail,1,0,Kiwoom DRX,Kiwoom DRX,marker,1,1,ZETA DIVISION,Kiwoom DRX,head,0,1
+S436,Nongshim RedForce,Rex Regum Qeon,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1,Nongshim RedForce,Nongshim RedForce,marker,1,1
+S437,Rex Regum Qeon,T1,T1,T1,T1,head,1,1,T1,T1,marker,1,1,T1,T1,marker,1,1
+S438,Team Secret,DetonatioN FocusMe,DetonatioN FocusMe,Team Secret,DetonatioN FocusMe,marker,0,1,Team Secret,DetonatioN FocusMe,marker,0,1,DetonatioN FocusMe,DetonatioN FocusMe,head,1,1
+S439,Nongshim RedForce,FULL SENSE,Nongshim RedForce,Nongshim RedForce,Nongshim RedForce,head,1,1,FULL SENSE,Nongshim RedForce,marker,0,1,FULL SENSE,Nongshim RedForce,marker,0,1
+S440,Team Secret,ZETA DIVISION,Team Secret,Team Secret,Team Secret,head,1,1,Team Secret,Team Secret,marker,1,1,Team Secret,Team Secret,marker,1,1
